@@ -1,4 +1,4 @@
-## start
+## Git & ZSH
 ```
 sudo apt install -y git
 sudo apt install -y zsh curl vim nodejs imagemagick jq
